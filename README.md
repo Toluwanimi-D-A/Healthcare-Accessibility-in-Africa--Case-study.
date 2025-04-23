@@ -2,7 +2,7 @@
 A Power BI case study analyzing healthcare access disparities in Africa, comparing rural and urban regions, funding efficiency, and emergency response capabilities using interactive dashboards.
 
 # Project Overview
-- This project investigates the disparities in healthcare accessibility across African countries. The analysis focuses on rural vs. urban differences, healthcare workforce distribution, funding allocation, and patient satisfaction metrics.
+- This project investigates the disparities in healthcare accessibility across African countries. The analysis focuses on rural vs. urban differences, healthcare workforce distribution, funding allocation, and patient satisfaction metrics. A capstone project using Power BI to analyze healthcare access disparities and funding efficiency across African regions.
 
 # Objective
 - To provide actionable, data-driven insights for policymakers and stakeholders to improve healthcare equity and funding efficiency.
