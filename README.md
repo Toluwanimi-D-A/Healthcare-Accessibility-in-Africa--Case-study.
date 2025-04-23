@@ -1,4 +1,4 @@
-# Healthcare-Accessibility-in-Africa Power Bi Case study.
+# Healthcare-Accessibility-in-Africa (A Power Bi Case study).
 A Power BI case study analyzing healthcare access disparities in Africa, comparing rural and urban regions, funding efficiency, and emergency response capabilities using interactive dashboards.
 
 # Project Overview
