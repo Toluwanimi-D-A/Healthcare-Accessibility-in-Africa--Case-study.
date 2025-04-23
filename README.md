@@ -30,15 +30,15 @@ A Power BI case study analyzing healthcare access disparities in Africa, compari
 - Improved data-driven healthcare policies
 
 # Project Structure
-/data → Raw healthcare datasets
-/dashboards → Power BI report (.pbix) or screenshots
-/visuals → Exported images from dashboards
-/analysis-notes → Observations and summary notes
+-/data → Raw healthcare datasets
+-/dashboards → Power BI report (.pbix) 
+-/visuals → Exported images from dashboards
+=/analysis-notes → Observations and summary notes
 
 # Outcome
 An interactive Power BI report that effectively communicates disparities in healthcare access and supports strategic planning for equitable service delivery across Africa while offering strategic insights for decision makers.
 
-## 🧠 Personal Reflection
+# Personal Reflection
 This project was my first deep dive into Power BI and it really showed me how powerful visualization can be in telling a story. Understanding how funding and workforce availability translate to actual patient outcomes made the data feel human. I especially enjoyed transforming raw numbers into visuals that could drive real-world decisions. This pushed me to think not just like an analyst, but like a communicator.
 
 
